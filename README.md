@@ -1,9 +1,12 @@
-# README Generator
+# Readme Generator
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Description
 
-Automatic readmegenerator
+Node application generating readme
+
+![ExampleGif](assets/application.gif)
+
 
 ## Table of Contents 
 
@@ -29,7 +32,7 @@ npm i
 
 ## Usage
 
-brian
+use node to run index.js file
 
 ## License
 
